@@ -18,22 +18,22 @@ schedule:
   - time: "18:00"
     lookback_hours: 9
     label: "🌇 傍晚速报"
-    enabled: false          # 设为 false 禁用此时间段
+    enabled: true          
 
   - time: "22:00"
     lookback_hours: 4
     label: "🌙 深夜精选"
-    enabled: false
+    enabled: true
 
 
 # ━━━━ 内容过滤 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 filter:
   # 每次推送最多发送的条目数量（5~20）
-  max_items: 12
+  max_items: 10
 
   # 最低分数阈值，低于此分数的条目直接丢弃（0 = 不过滤）
-  min_score: 3
+  min_score: 5
 
   # 屏蔽词，摘要中包含以下词的条目直接丢弃（忽略大小写）
   block_keywords:
@@ -72,10 +72,10 @@ personal_interests:
 llm:
   # 可选: openai / deepseek / anthropic
   provider: "openai"
-  model: "gpt-4o-mini"
+  model: "deepseek-chat"
   summary_language: "zh"      # zh = 中文摘要, en = 英文摘要
   # 单条摘要最大字数
-  max_summary_chars: 60
+  max_summary_chars: 100
   # 是否生成全局概述（消耗约 500 tokens）
   generate_overview: true
 
