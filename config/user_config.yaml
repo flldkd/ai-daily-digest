@@ -39,7 +39,6 @@ filter:
   block_keywords:
     - "sponsored"
     - "advertisement"
-    - "crypto"
     - "NFT"
 
   # 只保留这些来源 tag（为空 = 全部保留）
@@ -64,6 +63,7 @@ personal_interests:
   - "mechanistic interpretability"
   - "reasoning"
   - "agent"
+  - "3D cloud"
   # 替换为自己的研究方向，不需要的可删除
 
 
