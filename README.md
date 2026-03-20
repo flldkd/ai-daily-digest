@@ -4,7 +4,7 @@
 
 **你的专属 AI 情报官 · 每天自动推送到微信 · 零服务器 · 完全免费**
 
-[![GitHub Stars](https://img.shields.io/github/stars/OliverZ-dot/ai-daily-digest?style=social)]([https://github.com/OliverZ-dot/ai-daily-digest)]
+[![GitHub Stars](https://img.shields.io/github/stars/OliverZ-dot/ai-daily-digest?style=social)]([https://github.com/OliverZ-dot/ai-daily-digest)
 [![GitHub Actions](https://img.shields.io/badge/powered%20by-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
