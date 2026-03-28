@@ -1,286 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.17104",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.17419",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.17729",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.17811",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.13615",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.15639",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.22621",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.21750",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.21852",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.21475",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18892",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18656",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18411",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19220",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.23253",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.09909",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19131",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18411",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19220",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18495",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18563",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18627",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18718",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18859",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18856",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.21814",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.16060",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18859",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18507",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18614",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18662",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18118",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18523",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18558",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18579",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19017",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19225",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18118",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18579",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.22363",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.14200",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18256",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18444",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18756",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19005",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19169",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19173",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19229",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.15030",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://huggingface.co/blog/nvidia/speed-bench",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/389610.html",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/389666.html",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/390320.html",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18048",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.08581",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18657",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18329",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.19028",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18122",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18197",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18272",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18273",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.18330",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-      "date": "2026-03-20"
-    },
-    {
-      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "date": "2026-03-20"
-    },
-    {
       "url": "https://arxiv.org/abs/2603.11101",
       "date": "2026-03-21"
     },
@@ -1039,6 +759,54 @@
     {
       "url": "https://www.qbitai.com/2026/03/392819.html",
       "date": "2026-03-27"
+    },
+    {
+      "url": "https://openai.com/index/stadler",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/03/392900.html",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24084",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.23562",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.23667",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24326",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24511",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.23964",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24014",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24018",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24065",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.24582",
+      "date": "2026-03-28"
     }
   ]
 }
