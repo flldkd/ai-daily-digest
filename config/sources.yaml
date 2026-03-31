@@ -1,85 +1,40 @@
 sources:
-  - name: "OpenAI Blog"
-    url: "https://openai.com/blog/rss.xml"
-    priority: critical
-    tags: ["official", "openai"]
-
-  - name: "Anthropic News"
-    url: "https://www.anthropic.com/news/rss.xml"
-    priority: critical
-    tags: ["official", "anthropic"]
-
-  - name: "Google DeepMind"
-    url: "https://deepmind.google/blog/rss.xml"
-    priority: critical
-    tags: ["official", "google"]
-
-  - name: "Meta AI Blog"
-    url: "https://ai.meta.com/blog/feed/"
-    priority: critical
-    tags: ["official", "meta"]
-
-  - name: "Microsoft Research"
-    url: "https://www.microsoft.com/en-us/research/feed/"
+  - name: "arXiv quant-ph"
+    url: "http://export.arxiv.org/rss/quant-ph"
     priority: high
-    tags: ["official", "microsoft"]
+    tags: ["academic", "quantum"]
 
-  - name: "Mistral AI"
-    url: "https://mistral.ai/news/rss.xml"
+  - name: "arXiv physics.atom-ph"
+    url: "http://export.arxiv.org/rss/physics.atom-ph"
+    priority: medium
+    tags: ["academic", "quantum", "experiment"]
+
+  - name: "Quantum Journal"
+    url: "https://quantum-journal.org/feed/"
     priority: high
-    tags: ["official"]
+    tags: ["academic", "journal", "quantum"]
 
-  - name: "xAI Blog"
-    url: "https://x.ai/blog/rss.xml"
+  - name: "npj Quantum Information"
+    url: "https://www.nature.com/npjqi.rss"
     priority: high
-    tags: ["official"]
+    tags: ["academic", "journal", "quantum"]
 
-  - name: "Hugging Face Blog"
-    url: "https://huggingface.co/blog/feed.xml"
+  - name: "PRX Quantum"
+    url: "http://feeds.aps.org/rss/recent/prxquantum.xml"
     priority: high
-    tags: ["official", "open-source"]
+    tags: ["academic", "journal", "quantum"]
 
-  - name: "arXiv cs.AI"
-    url: "http://arxiv.org/rss/cs.AI"
-    priority: high
-    tags: ["academic"]
-
-  - name: "arXiv cs.LG"
-    url: "http://arxiv.org/rss/cs.LG"
-    priority: high
-    tags: ["academic"]
-
-  - name: "TechCrunch AI"
-    url: "https://techcrunch.com/tag/artificial-intelligence/feed/"
+  - name: "Physical Review A"
+    url: "http://feeds.aps.org/rss/recent/pra.xml"
     priority: medium
-    tags: ["media"]
+    tags: ["academic", "journal", "quantum"]
 
-  - name: "VentureBeat AI"
-    url: "https://venturebeat.com/category/ai/feed/"
+  - name: "Quantum Science and Technology"
+    url: "https://iopscience.iop.org/journal/rss/2058-9565"
     priority: medium
-    tags: ["media"]
+    tags: ["academic", "journal", "quantum"]
 
-  - name: "MIT Technology Review"
-    url: "https://www.technologyreview.com/feed/"
+  - name: "AWS Quantum Technologies Blog"
+    url: "https://aws.amazon.com/blogs/quantum-computing/feed/"
     priority: medium
-    tags: ["media", "academic"]
-
-  - name: "The Verge AI"
-    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
-    priority: medium
-    tags: ["media"]
-
-  - name: "Hacker News AI"
-    url: "https://hnrss.org/newest?q=AI+LLM&points=50"
-    priority: medium
-    tags: ["community"]
-
-  - name: "量子位"
-    url: "https://www.qbitai.com/feed"
-    priority: medium
-    tags: ["media", "chinese"]
-
-  - name: "机器之心"
-    url: "https://www.jiqizhixin.com/rss"
-    priority: medium
-    tags: ["media", "chinese"]
+    tags: ["official", "quantum"]
