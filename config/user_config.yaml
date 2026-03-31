@@ -37,7 +37,7 @@ filter:
 
   # 只保留这些来源 tag（为空 = 全部保留）
   # tag 与 sources.yaml 中每个源的 tags 字段对应
-  include_tags: []
+  include_tags: ["academic"]
   # 示例：只要学术和官方来源
   # include_tags: ["academic", "official"]
 
@@ -76,12 +76,22 @@ tracks:
 # 每命中一个词 +8 分，超过 min_personal_score 阈值才会被收录
 
 personal_interests:
-  - "RLHF"
-  - "alignment"
-  - "mechanistic interpretability"
-  - "reasoning"
-  - "agent"
-  - "3D cloud"
+  - "mid-circuit measurement"
+  - "mid-circuit operations"
+  - "syndrome extraction"
+  - "stabilizer measurement"
+  - "readout error"
+  - "measurement-free"
+  - "surface code"
+  - "quantum LDPC"
+  - "qLDPC"
+  - "bosonic code"
+  - "GKP code"
+  - "fault-tolerant quantum error correction"
+  - "logical qubit"
+  - "logical error rate"
+  - "circuit-level noise"
+  - "error detection"
   # 替换为自己的研究方向，不需要的可删除
 
 
