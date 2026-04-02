@@ -1,150 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/391799.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21697",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.10744",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.08291",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.13406",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.20873",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21475",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21558",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21563",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21574",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.21692",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392024.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392105.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/391839.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/391894.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/391890.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.22815",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.22530",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2410.22492",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.22294",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.22529",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.22577",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23184",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23268",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.02050",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.23276",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392128.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392121.html",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "date": "2026-03-25"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "date": "2026-03-25"
-    },
-    {
       "url": "https://www.qbitai.com/2026/03/392215.html",
       "date": "2026-03-26"
     },
@@ -679,6 +535,10 @@
     {
       "url": "https://arxiv.org/abs/2603.28852",
       "date": "2026-04-01"
+    },
+    {
+      "url": "http://link.aps.org/doi/10.1103/qmss-lc5x",
+      "date": "2026-04-02"
     }
   ]
 }
