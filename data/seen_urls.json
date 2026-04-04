@@ -1,134 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.11269",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23853",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23521",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23646",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23916",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.08947",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23539",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23610",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23625",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23638",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392789.html",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392790.html",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392779.html",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392770.html",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2509.22460",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.11442",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.10305",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23749",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23840",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23749",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23838",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23840",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23909",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.23910",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392828.html",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392835.html",
-      "date": "2026-03-27"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/03/392819.html",
-      "date": "2026-03-27"
-    },
-    {
       "url": "https://openai.com/index/stadler",
       "date": "2026-03-28"
     },
@@ -451,6 +323,10 @@
     {
       "url": "https://arxiv.org/abs/2603.24588",
       "date": "2026-04-03"
+    },
+    {
+      "url": "http://link.aps.org/doi/10.1103/7lm4-3bnh",
+      "date": "2026-04-04"
     }
   ]
 }
