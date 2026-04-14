@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.02962",
-      "date": "2026-04-06"
-    },
-    {
       "url": "https://arxiv.org/abs/2504.11737",
       "date": "2026-04-07"
     },
@@ -95,6 +91,14 @@
     {
       "url": "https://arxiv.org/abs/2506.11552",
       "date": "2026-04-13"
+    },
+    {
+      "url": "https://quantum-journal.org/papers/q-2026-04-13-2061/",
+      "date": "2026-04-14"
+    },
+    {
+      "url": "https://quantum-journal.org/papers/q-2026-04-13-2061/",
+      "date": "2026-04-14"
     }
   ]
 }
