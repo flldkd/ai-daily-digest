@@ -1,34 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.05126",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.02539",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.15356",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05870",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.08568",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.05126",
-      "date": "2026-04-08"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.15356",
-      "date": "2026-04-08"
-    },
-    {
       "url": "https://arxiv.org/abs/2604.06319",
       "date": "2026-04-09"
     },
@@ -151,6 +123,42 @@
     {
       "url": "https://arxiv.org/abs/2604.12841",
       "date": "2026-04-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13632",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.01040",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13219",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13176",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.03227",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.01040",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13219",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.13632",
+      "date": "2026-04-16"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.02809",
+      "date": "2026-04-16"
     }
   ]
 }
