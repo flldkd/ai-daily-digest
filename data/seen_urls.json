@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.08247",
-      "date": "2026-04-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.08358",
-      "date": "2026-04-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.07909",
-      "date": "2026-04-10"
-    },
-    {
       "url": "https://arxiv.org/abs/2604.08650",
       "date": "2026-04-13"
     },
@@ -195,6 +183,10 @@
     {
       "url": "https://arxiv.org/abs/2604.15307",
       "date": "2026-04-17"
+    },
+    {
+      "url": "http://link.aps.org/doi/10.1103/67xf-zdjb",
+      "date": "2026-04-18"
     }
   ]
 }
