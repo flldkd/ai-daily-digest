@@ -1,54 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2604.13632",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.01040",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13219",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13176",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.03227",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.01040",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13219",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.13632",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.02809",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://quantum-journal.org/papers/q-2026-04-16-2071/",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.08914",
-      "date": "2026-04-16"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.02328",
-      "date": "2026-04-16"
-    },
-    {
       "url": "https://arxiv.org/abs/2604.14931",
       "date": "2026-04-17"
     },
@@ -179,6 +131,46 @@
     {
       "url": "https://arxiv.org/abs/2507.12024",
       "date": "2026-04-23"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.08036",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21866",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21472",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21722",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21824",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21722",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21824",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21866",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21876",
+      "date": "2026-04-24"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.08036",
+      "date": "2026-04-24"
     }
   ]
 }
