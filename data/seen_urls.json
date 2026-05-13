@@ -1,58 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2605.01035",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.01942",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2603.25665",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.02057",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2510.05221",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.01035",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.02861",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.01942",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2507.00944",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.00843",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.04608",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.10729",
-      "date": "2026-05-05"
-    },
-    {
-      "url": "https://arxiv.org/abs/2601.03922",
-      "date": "2026-05-05"
-    },
-    {
       "url": "https://arxiv.org/abs/2605.03180",
       "date": "2026-05-06"
     },
@@ -239,6 +187,38 @@
     {
       "url": "https://quantum-journal.org/papers/q-2026-05-12-2101/",
       "date": "2026-05-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.11092",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.11318",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.11488",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.12046",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.12385",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.11092",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.11318",
+      "date": "2026-05-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.12149",
+      "date": "2026-05-13"
     }
   ]
 }
