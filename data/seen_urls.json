@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2606.11076",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.10730",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11010",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.25747",
-      "date": "2026-06-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.11010",
-      "date": "2026-06-10"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.12030",
       "date": "2026-06-11"
     },
@@ -147,6 +127,10 @@
     {
       "url": "https://arxiv.org/abs/2606.18240",
       "date": "2026-06-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.18035",
+      "date": "2026-06-18"
     }
   ]
 }
