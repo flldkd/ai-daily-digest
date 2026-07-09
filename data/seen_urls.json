@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://quantum-journal.org/papers/q-2026-06-30-2149/",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://quantum-journal.org/papers/q-2026-06-30-2149/",
-      "date": "2026-07-01"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.00786",
       "date": "2026-07-02"
     },
@@ -167,6 +159,22 @@
     {
       "url": "https://arxiv.org/abs/2410.02213",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.08695",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06718",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.07554",
+      "date": "2026-07-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.08695",
+      "date": "2026-07-09"
     }
   ]
 }
