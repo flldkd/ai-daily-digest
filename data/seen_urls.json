@@ -1,38 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.10058",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.13395",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.11238",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.11668",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.18037",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.10058",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.11238",
-      "date": "2026-07-14"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.13395",
-      "date": "2026-07-14"
-    },
-    {
       "url": "https://arxiv.org/abs/2606.28518",
       "date": "2026-07-15"
     },
@@ -167,6 +135,38 @@
     {
       "url": "https://arxiv.org/abs/2510.08687",
       "date": "2026-07-21"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.06484",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18374",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.21730",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.16303",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "http://link.aps.org/doi/10.1103/yh45-pj3r",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.18374",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.06484",
+      "date": "2026-07-22"
+    },
+    {
+      "url": "http://link.aps.org/doi/10.1103/yh45-pj3r",
+      "date": "2026-07-22"
     }
   ]
 }
