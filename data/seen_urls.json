@@ -1,18 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2607.13062",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.14842",
-      "date": "2026-07-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.01342",
-      "date": "2026-07-28"
-    },
-    {
       "url": "https://arxiv.org/abs/2607.24907",
       "date": "2026-07-29"
     },
@@ -179,6 +167,10 @@
     {
       "url": "https://arxiv.org/abs/2608.01939",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.26311",
+      "date": "2026-08-05"
     }
   ]
 }
