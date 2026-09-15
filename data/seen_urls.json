@@ -1,34 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.04459",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04557",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04997",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.05316",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.02804",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04459",
-      "date": "2026-09-07"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.04557",
-      "date": "2026-09-07"
-    },
-    {
       "url": "https://quantum-journal.org/papers/q-2026-09-09-2205/",
       "date": "2026-09-09"
     },
@@ -151,6 +123,46 @@
     {
       "url": "https://arxiv.org/abs/2604.20838",
       "date": "2026-09-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.25524",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.03054",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.06455",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.27682",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.15612",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.03054",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.13383",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2406.18807",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.05719",
+      "date": "2026-09-15"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.05481",
+      "date": "2026-09-15"
     }
   ]
 }
