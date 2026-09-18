@@ -1,54 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.09334",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27568",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10056",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27568",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.09227",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.10056",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27568",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://arxiv.org/abs/2608.27568",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://quantum-journal.org/papers/q-2026-09-10-2207/",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "http://link.aps.org/doi/10.1103/5wpc-w64n",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "https://quantum-journal.org/papers/q-2026-09-10-2207/",
-      "date": "2026-09-10"
-    },
-    {
-      "url": "http://link.aps.org/doi/10.1103/5wpc-w64n",
-      "date": "2026-09-10"
-    },
-    {
       "url": "https://arxiv.org/abs/2609.10965",
       "date": "2026-09-11"
     },
@@ -231,6 +183,38 @@
     {
       "url": "https://arxiv.org/abs/2510.20890",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20537",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19250",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19485",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20182",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20183",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20537",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20549",
+      "date": "2026-09-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.20780",
+      "date": "2026-09-18"
     }
   ]
 }
