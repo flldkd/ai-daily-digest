@@ -1,14 +1,6 @@
 {
   "urls": [
     {
-      "url": "http://link.aps.org/doi/10.1103/92yt-xgf3",
-      "date": "2026-10-29"
-    },
-    {
-      "url": "http://link.aps.org/doi/10.1103/92yt-xgf3",
-      "date": "2026-10-29"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.41341",
       "date": "2026-11-02"
     },
@@ -67,6 +59,34 @@
     {
       "url": "https://arxiv.org/abs/2606.24808",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21866",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08488",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07144",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.07967",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08107",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.08488",
+      "date": "2026-11-06"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.21866",
+      "date": "2026-11-06"
     }
   ]
 }
