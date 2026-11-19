@@ -1,46 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2611.13371",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.28422",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13174",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13373",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13098",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13371",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13098",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13174",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13373",
-      "date": "2026-11-11"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.13799",
-      "date": "2026-11-11"
-    },
-    {
       "url": "http://link.aps.org/doi/10.1103/y9ln-b4t9",
       "date": "2026-11-13"
     },
@@ -103,6 +63,46 @@
     {
       "url": "https://arxiv.org/abs/2601.17675",
       "date": "2026-11-18"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.16166",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23759",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23762",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.18979",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.18979",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23759",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23762",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.16166",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23420",
+      "date": "2026-11-19"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.23528",
+      "date": "2026-11-19"
     }
   ]
 }
